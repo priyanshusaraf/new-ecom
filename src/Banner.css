@@ -1,0 +1,14 @@
+.banner {
+  width: 100%;
+}
+
+.banner__image {
+  height: 30em;
+  width: 100%;
+  object-fit: cover;
+}
+
+.banner__item {
+  display: flex;
+  background-color: #3e4e4e;
+}

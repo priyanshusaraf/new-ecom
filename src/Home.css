@@ -1,0 +1,11 @@
+.home {
+  margin-top: 7vh;
+}
+
+.home__productsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 100%;
+  justify-content: center;
+}
